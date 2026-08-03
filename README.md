@@ -51,7 +51,7 @@ kimia-farma-performance-analysis/
      |--- preview. png
 
 ## SQL Query
-Seluruh syntax BigQuery dapat dilihat pada folder ...
+Seluruh syntax BigQuery dapat dilihat pada folder https://github.com/firdazairina/kimia-farma-bigquery-analysis/tree/main/sql
 
 ## Dashboard Preview
 
